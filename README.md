@@ -32,7 +32,7 @@ Bjúgnakrækir | allir, leikdeild | bjugi | pass.123
 Gluggagægir | allir, leikdeild | gluggi | pass.123
 Gáttaþefur | allir, songdeild | gatti | pass.123
 Ketkrókur | allir, songdeild | krokur | pass.123
-Kertasníkur | allir, songdeild | kerti | pass.123
+Kertasníkir | allir, songdeild | kerti | pass.123
 
 ### Val á stýrikerfi
 Það fyrsta sem þarf að gera er að velja hvaða linux þið ætlið að velja. Kynnið ykkur þessi hér fyrir neðan og veljið svo eitt til að setja upp (rökstyðjið val ykkar (ca. 200 orð)).
